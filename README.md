@@ -27,7 +27,7 @@ Create a new folder in your user folder (`/home/$USR/`) called `dev` (for all de
 cd ~        # to home dir
 mkdir dev   # create dev folder
 cd dev
-git pull <<THIS PROJECT>>
+git pull https://github.com/thesethtruth/holon-meets-repast4py.git
 ```
 
 ### Install MiniConda
